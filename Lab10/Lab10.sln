@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsIdentityandPrincipal", "WindowsIdentityandPrincipal\WindowsIdentityandPrincipal.csproj", "{5115F203-C0BA-4CF7-9F07-49BA0D96804B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIdentityandPrincipal", "GenericIdentityandPrincipal\GenericIdentityandPrincipal.csproj", "{4F1D5BF4-7A5F-4014-A626-5FEE45631D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permissions", "BinaryReadWrite\Permissions.csproj", "{D2E247C0-2938-4A31-A753-05597B2AEC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSecurity", "CustomSecurity\CustomSecurity.csproj", "{7ACAEBFC-FC5D-4698-9874-B3893FA91E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessControl", "AccessControl\AccessControl.csproj", "{B6BC5403-C3CC-4ACB-B135-A777CCB3CAE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5115F203-C0BA-4CF7-9F07-49BA0D96804B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5115F203-C0BA-4CF7-9F07-49BA0D96804B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5115F203-C0BA-4CF7-9F07-49BA0D96804B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5115F203-C0BA-4CF7-9F07-49BA0D96804B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1D5BF4-7A5F-4014-A626-5FEE45631D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1D5BF4-7A5F-4014-A626-5FEE45631D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1D5BF4-7A5F-4014-A626-5FEE45631D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1D5BF4-7A5F-4014-A626-5FEE45631D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E247C0-2938-4A31-A753-05597B2AEC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E247C0-2938-4A31-A753-05597B2AEC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E247C0-2938-4A31-A753-05597B2AEC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E247C0-2938-4A31-A753-05597B2AEC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACAEBFC-FC5D-4698-9874-B3893FA91E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACAEBFC-FC5D-4698-9874-B3893FA91E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACAEBFC-FC5D-4698-9874-B3893FA91E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACAEBFC-FC5D-4698-9874-B3893FA91E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BC5403-C3CC-4ACB-B135-A777CCB3CAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BC5403-C3CC-4ACB-B135-A777CCB3CAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BC5403-C3CC-4ACB-B135-A777CCB3CAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BC5403-C3CC-4ACB-B135-A777CCB3CAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
